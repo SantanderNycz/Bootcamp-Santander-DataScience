@@ -45,4 +45,8 @@ Essas ações combinadas resultam em maior eficiência, segurança dos dados e e
 Recomenda-se a continuidade da utilização dos serviços implementados e a avaliação periódica de novas tecnologias em nuvem que possam ampliar ainda mais a economia e aprimorar os processos internos da Abstergo Industries.
 ## Anexos
 
-- - -
+N/A [lista de anexos, como manuais, documentos, planilhas, entre outros]
+
+Assinatura do ResponsÃ¡vel pelo Projeto:
+
+- Leonardo Santander Nycz
